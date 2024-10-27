@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Victor_Vallecillos_UF1_ACT8</string>
+    <string name="MatText">Matriculació</string>
+    <string name="Subjects">Materies:</string>
+    <string name="PspText">Programació de serveis i processos</string>
+    <string name="InterfacesText">Desenvolupament d\'interficies</string>
+    <string name="DesignText">Disseny 2D/3D</string>
+    <string name="ProgramText">Programació</string>
+    <string name="TornsText">Torns:</string>
+    <string name="MorningText">Matí</string>
+    <string name="AfternoonText">Tarda</string>
+    <string name="ButtonText">Fer matricula</string>
 </resources>
